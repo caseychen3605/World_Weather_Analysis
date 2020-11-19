@@ -3,7 +3,7 @@ config.py
 
 #Adding additional files
 API_practice.ipynb
-random_number.ipynb
+random_numbers.ipynb
 try-except.ipynb
 
 # Byte-compiled / optimized / DLL files
